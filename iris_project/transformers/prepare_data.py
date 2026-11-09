@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 def transform(df):
     train_df, test_df = train_test_split(
         df,
-        test_size=0.3,
+        test_size=0.2,
         random_state=42,
         stratify=df["target"]
     )
