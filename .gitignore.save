@@ -1,0 +1,6 @@
+.env
+*.pkl
+*.csv
+mage.log
+__pycache__/
+
