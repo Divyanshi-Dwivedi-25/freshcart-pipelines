@@ -2,3 +2,4 @@ pytest
 scikit-learn
 pandas
 
+mage-ai
